@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\LTBL">
+      <UniqueIdentifier>{4a9a55a4-95a3-4df9-95c3-1cc53c4167f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{486278b3-4467-4ddb-9055-988f23796800}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DComponents">
+      <UniqueIdentifier>{b31a0710-f47c-46f7-a755-0ef55e7f3273}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools">
+      <UniqueIdentifier>{dc8d1722-5f03-4af7-99e4-14653229c12e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Network">
+      <UniqueIdentifier>{e679453e-b862-4980-9596-43ad7c45b039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Client">
+      <UniqueIdentifier>{33ac3bbc-5016-4040-8bf3-f67091076c40}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Constructs\AABB.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Constructs\Color3f.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\ConvexHull.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\EmissiveLight.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\Light.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\Light_Point.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\LightSystem.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Constructs\Point2i.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\QuadTree\QuadTree.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\QuadTree\QuadTreeNode.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\QuadTree\QuadTreeOccupant.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\ShadowFin.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\QuadTree\StaticQuadTree.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Utils.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Constructs\Vec2f.cpp">
+      <Filter>Header Files\LTBL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\main2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\Limits.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\DButton.cpp">
+      <Filter>Source Files\DComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\DComponent.cpp">
+      <Filter>Source Files\DComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\DPanel.cpp">
+      <Filter>Source Files\DComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\DTextBox.cpp">
+      <Filter>Source Files\DComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\DNetwork.cpp">
+      <Filter>Source Files\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\DServer.cpp">
+      <Filter>Source Files\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\DClient.cpp">
+      <Filter>Source Files\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Dropbox\The Game\Spel\Spel\ClientMain.cpp">
+      <Filter>Source Files\Client</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Constructs\AABB.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Constructs\Color3f.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Constructs.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\ConvexHull.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\EmissiveLight.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\Light.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\Light_Point.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\LightSystem.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Constructs\Point2i.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\QuadTree\QuadTree.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\QuadTree\QuadTreeNode.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\QuadTree\QuadTreeOccupant.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Light\ShadowFin.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\QuadTree\StaticQuadTree.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Utils.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Let_There_Be_Light_v1.5\Source\LTBL\Constructs\Vec2f.h">
+      <Filter>Header Files\LTBL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Dropbox\The Game\Spel\Spel\Limits.h">
+      <Filter>Source Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Dropbox\The Game\Spel\Spel\DButton.h">
+      <Filter>Source Files\DComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Dropbox\The Game\Spel\Spel\DComponent.h">
+      <Filter>Source Files\DComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Dropbox\The Game\Spel\Spel\DPanel.h">
+      <Filter>Source Files\DComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Dropbox\The Game\Spel\Spel\DTextBox.h">
+      <Filter>Source Files\DComponents</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Dropbox\The Game\Spel\Spel\DNetwork.h">
+      <Filter>Source Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Dropbox\The Game\Spel\Spel\DServer.h">
+      <Filter>Source Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Dropbox\The Game\Spel\Spel\DClient.h">
+      <Filter>Source Files\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Dropbox\The Game\Spel\Spel\ClientMain.h">
+      <Filter>Source Files\Client</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
